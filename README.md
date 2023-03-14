@@ -1,3 +1,4 @@
+
 <h3 align="center">A passionate frontend developer from Nigeria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=essy555&label=Profile%20views&color=0e75b6&style=flat" alt="essy555" /> </p>
@@ -8,7 +9,7 @@
 
 - 🔭 I’m currently working on **Airbnb clone**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently working with**React Native**
 
 - 📫 How to reach me **adewumiisrael66@gmail.com**
 
